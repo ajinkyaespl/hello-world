@@ -1,2 +1,5 @@
 # hello-world
-First repository for ajinkyaespl
+{
+  "Name": "Ajinkya"
+  "Likes": "Javascript, C"
+}
